@@ -30,7 +30,7 @@ make view
 > [!NOTE]
 > After you open the GTKWave you should see some thing like the following
 
-[!Alt text](wave.png "4-bit Adder Wave")
+![Alt text](wave.png "4-bit Adder Wave")
 
 ## clean
 
